@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "45d9c2a2357781b5",
+        "id": "754c9f4a8ed73c62",
         "type": "tabs",
         "children": [
           {
-            "id": "a04b02d076202c6a",
+            "id": "d351dc6f577a930e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Function.md",
+                "file": "Variable.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Function"
+              "title": "Variable"
             }
           }
         ]
@@ -179,10 +179,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6283e19996af114",
+  "active": "9b4f3e917f9dea99",
   "lastOpenFiles": [
     "20250413C1.md",
+    "Variable.md",
+    "Package.md",
+    "Import.md",
     "Function.md",
+    "Comment.md",
+    "File.md",
     "함수.md",
     "클래스.md",
     "가져오기.md",
