@@ -13,3 +13,9 @@ const b: I32 & premise {this==-10} = -10
 let c: U32 = 10
 let d: I32 = -10
 ```
+
+변수는 쉐도잉이 가능함
+```aeris
+const a = 10
+const a = "hello"
+```
