@@ -1,4 +1,3 @@
-premise 구체화
 
 ```haskell
 add 2 3

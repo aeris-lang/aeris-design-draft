@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Variable.md",
+                "file": "IDEAS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Variable"
+              "title": "IDEAS"
             }
           }
         ]
@@ -181,15 +181,15 @@
   },
   "active": "d351dc6f577a930e",
   "lastOpenFiles": [
+    "Variable.md",
     "Function.md",
     "Domain.md",
     "Comment.md",
     "Scope Block.md",
-    "Variable.md",
     "Type.md",
     "Union Type.md",
     "Import.md",
-    "TODO.md",
+    "IDEAS.md",
     "20250413C1.md",
     "Package.md",
     "File.md",
