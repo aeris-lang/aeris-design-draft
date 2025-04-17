@@ -1,4 +1,3 @@
-
 ```haskell
 add 2 3
 (add 2) 3
@@ -8,4 +7,3 @@ add 2 3
 factorial 0 = 1
 factorial n = n * factorial (n - 1)
 ```
-
