@@ -16,7 +16,7 @@ prototype 20250413C1
 */
 
 func main {
-	const (a, b) = {
+	const <a, b> = {
 		const input = stdin.readline
 		const input = input.split ' '
 		if input.size < 2 return:main

@@ -1,5 +1,5 @@
 ```aeris
-func <name> <<arg> <: <arg-type>>?>* <= <return-type>>? {
+func <name> <<arg> <: <arg-type>>?>+ <= <return-type>>? {
 	<body>
 }
 ```
@@ -29,6 +29,10 @@ func main {
 	bar // bar 호출
 }
 ```
+
+```aeris
+```
+
 
 ```aeris
 func foo values: <UI32, UI32> {
