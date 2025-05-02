@@ -1,3 +1,0 @@
-```aeris
-package <package-name>
-```

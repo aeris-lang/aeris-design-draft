@@ -1,5 +1,7 @@
+TODO: 문법 모호함. 개선 필요
+
 ```aeris
-func <name> <<arg> <: <arg-type>>?>+ <= <return-type>>? {
+func <name> <= <return-type>>? {
 	<body>
 }
 ```
@@ -9,11 +11,11 @@ func foo {
 
 }
 
-func bar =Void {
+func bar =<> {
 
 }
 ```
-반환 타입 생략 시 기본적으로 Void 타입
+반환 타입 생략 시 기본적으로 () 타입
 
 ```aeris
 func foo a: I32 b: I32 {
@@ -27,6 +29,9 @@ func bar {
 func main {
 	foo 10 20 // foo 호출
 	bar // bar 호출
+	foo 10
+		20
+	
 }
 ```
 
