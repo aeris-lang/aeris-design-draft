@@ -14,4 +14,5 @@ let mut d = -10 // I32 type
 ```aeris
 let a = 10
 let a = "hello"
+let mut a = false
 ```
